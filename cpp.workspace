@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp" Database="" Version="10000">
+  <Project Name="helloworld" Path="helloworld/helloworld.project" Active="No"/>
+  <Project Name="flowControl" Path="flowControl/flowControl.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="helloworld" ConfigName="Debug"/>
+      <Project Name="flowControl" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="helloworld" ConfigName="Release"/>
+      <Project Name="flowControl" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
